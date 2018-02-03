@@ -1,0 +1,13 @@
+function randomline() {
+  line(random(width), random(height), random(width), random(height));
+}
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
