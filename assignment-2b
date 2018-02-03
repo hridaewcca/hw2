@@ -1,0 +1,13 @@
+function randomline() {
+  line(random(300,350), random(0,100), (175), (175));
+}
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
+randomline();
